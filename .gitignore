@@ -1,0 +1,11 @@
+.
+..
+.DS_Store
+*.o
+*.a
+*.gch
+*.swp
+a.out
+push_swap
+checker_Mac
+push_swap_test.sh
